@@ -7,7 +7,7 @@
 Welcome to my personal portfolio website!  
 I’m a Data Analyst and Master's student transforming raw data into meaningful insights. Passionate about NLP, machine learning, and creating data-driven solutions for real-world challenges.
 
- [View my work](https://nic-stack.github.io)  
+ 
  [Download My Resume](https://nic-stack.github.io/Resume.pdf)
 
 ---
